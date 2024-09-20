@@ -1,0 +1,30 @@
+body{
+    background: url("1.jpg");
+    background: wheat url('1.jpg') no-repeat center;
+    background-attachment: fixed;
+}
+div{
+    /* width: 300px;
+    height: 300px; */
+    background-color: rgba(133, 35, 142,0.4);
+    background-image: url('2.jpg');
+    background-size: 100px 100px;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    /* margin: 30px; */
+    padding: 20px;
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-position: top center;
+    background-position: center left; 
+    background-position: top left; 
+    /* shorthand of background: ; */
+    /* background: wheat url('2.jpg') no-repeat center; */
+
+
+}
+div p{
+    margin-bottom: 30px;
+    border: 5px black;
+}

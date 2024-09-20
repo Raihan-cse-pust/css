@@ -1,0 +1,14 @@
+div{
+    width: 200px;
+    height: 200px;
+    background:url("1.jpg");
+    background-size: 500px;
+    
+}
+div p{
+    color: azure;
+    color: #0fdddd4d;
+    color: rgba(15, 221, 221,0.6);
+
+
+}

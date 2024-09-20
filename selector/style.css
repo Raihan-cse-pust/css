@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}   
+h1 {
+  color: red;
+  font-size: 60px;
+}
+p{
+    color: blue;
+    font-size: 20px;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+div p{
+    color: #000;
+}
+.text-bk{
+    color: chocolate;
+}
+.first-div{
+    background: blue;
+    /* color:white; */
+}
+.first-div p{
+    color: white;
+}
+#big_div{
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.second_div{
+    border-color: red;
+    border-width: 20px;
+    
+    border-radius: 50%;   
+}
