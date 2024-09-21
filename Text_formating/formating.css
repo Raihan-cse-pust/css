@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #55db43;
+    text-align: right;
+    text-align: center;
+
+}
+.page{
+    text-align-last: center;
+
+}
+h2{
+    color: #0bd7e6;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+p .ima{
+    width: 10px;
+    height: 10px;
+    vertical-align: baseline;
+}
+.im{
+    width: 10px;
+    height: 10px;
+    vertical-align: text-bottom;
+}
+.bt{
+    width: 10px;
+    height: 10px;
+    vertical-align: bottom;
+}
+/* p span .sp{
+    vertical-align:super;
+} */
+        
