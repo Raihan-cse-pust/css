@@ -10,6 +10,14 @@ h1{
 }
 .page{
     text-align-last: center;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+
+}
+.page1{
+    line-height: 30px;
+    word-spacing: 20px;
 
 }
 h2{
@@ -35,4 +43,7 @@ p .ima{
 /* p span .sp{
     vertical-align:super;
 } */
-        
+h3{
+    color: orange;
+    text-shadow: 10px 2px 20px gray;
+}
