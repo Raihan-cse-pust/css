@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* color: rgb(18, 49, 77); */
+}
+.lorem1{
+    color:bisque;
+}
+h1{
+    color:rgb(81, 165, 42);
+
+}
+.head{
+    color: blue;
+}
+div{
+    width:100px;
+    height: 55px;
+    border: 3px solid rgb(85, 128, 91);
+    background-color: green;
+    position: relative;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.one{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    border-radius: 50%;
+    position:absolute;
+    align-items:center ;
+    justify-items: center;
+    margin: 10px 25px;
+    background-color: red;
+    
+}
+.square1{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: aqua;
+}
+.square2{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: aqua;
+}
+div p{
+    color: red;
+}
+.text-bk{
+    color: blue;
+    text-align: right;
+    
+}
+#big_div{
+    color: green;
+}
