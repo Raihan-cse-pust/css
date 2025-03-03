@@ -1,0 +1,23 @@
+body{
+    background: url(../images/panda.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+  color: rgba(0, 255, 234, 0.555);
+
+}
+p {
+  color: #000000;
+  color: #0000ff;
+  color: #00ff00;
+  color: #ff000088;
+  color: #ff0000;
+}
+h3 {
+    color: #00ff00c0;
+    color: rgb(0, 255,);
+}
+.lorem{
+    color: rgba(55, 0, 255, 0.856);
+}
