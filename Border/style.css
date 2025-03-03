@@ -1,0 +1,22 @@
+h1{
+    border-style: dashed;
+    border-style: dotted;
+    border-style: double;
+    border-style: ridge;
+    border-style: outset;
+    border-style: outset;
+    border-style: inset;
+    border-width: 10px;
+    border-color: aqua;
+
+    /* Short of border */
+    border: 15px solid aqua;
+    border-radius: 30px;
+}
+p{
+    border-left: 10px inset red;
+    border-bottom: 10px solid green;
+    border-top: 10px dotted blue;
+    border-right: 10px ridge rgb(228, 98, 148);
+    border-bottom-style:dashed ;
+}
