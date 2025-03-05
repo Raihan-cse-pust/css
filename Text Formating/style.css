@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: #ff8922;
+  background: blue;
+  text-align: right;
+  text-align: left;
+  text-align: center;
+}
+.one {
+  margin-top: 20px;
+  text-align-last: left;
+  text-align-last: right;
+  text-align-last: center;
+}
+.two {
+  text-align: right;
+  text-align-last: left;
+  margin-top: 20px;
+}
+.three {
+  direction: rtl;
+  margin-top: 20px;
+  unicode-bidi: bidi-override;
+}
+.text_base {
+  vertical-align: baseline;
+}
+.text_top {
+  vertical-align: top;
+}
+.text_bottom {
+  vertical-align: bottom;
+}
+.text_sub {
+  vertical-align: sub;
+}
+.text_sup {
+  vertical-align: super;
+}
+.link1 {
+  text-decoration: none;
+  text-decoration: overline;
+  text-decoration: underline;
+  text-decoration: line-through;
+  text-decoration: line-through overline underline;
+  color: #09ff00;
+  text-align: center;
+}
+.Capitalize {
+  text-transform: capitalize;
+}
+.lower {
+  text-transform: lowercase;
+  word-spacing: 30px;
+}
+.upper {
+  text-transform: uppercase;
+  letter-spacing: 20px;
+}
+.indent {
+  text-indent: 100px;
+  line-height: 30px;
+}
+.wrap {
+  white-space: nowrap;
+  white-space: break-spaces;
+  word-spacing: 20px;
+}
+.sha{
+    text-align: center;
+    text-shadow: 5px 5px 10px #f05801;
+}
