@@ -1,0 +1,20 @@
+a{
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+a:visited{
+    color: tomato;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: rgb(0, 247, 0);
+    font-weight: bold;
+    font-size: 30px;
+}
+a:focus{
+    color: violet;
+    text-decoration: line-through;
+}
